@@ -1,2 +1,2 @@
-# wishdreamer-frontend
+# Wishdreamer_Frontend
 WishDreamer Frontend Project
